@@ -1,4 +1,6 @@
-marekwojtaszek.github.io
+[marekwojtaszek.com](http://marekwojtaszek.com/)
 ========================
 
-marekwojtaszek.com
+![image](http://marekwojtaszek.com/preview.png)
+
+Repository for my personal page
