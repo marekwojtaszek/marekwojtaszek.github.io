@@ -5,21 +5,3 @@
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
-Thumbs.db
-.swp
-
-# Ignore SASS cache
-.sass-cache
-
-# Ignore node modules
-/node_modules
-
-# Ignore bower packages
-/resources/packages
-
-# Ignore Bundler logs
-.bundle
-
-# Ignore PSD source files
-/resources/psd
