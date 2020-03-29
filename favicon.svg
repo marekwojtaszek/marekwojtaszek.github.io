@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>marekwojtaszek.com</title>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g>
-            <rect id="Rectangle" fill="#FFAF00" x="0" y="0" width="144" height="144" rx="24"></rect>
-            <text id="M" font-family="Oxanium-ExtraBold, Oxanium" font-size="130" font-weight="600" fill="#212121">
-                <tspan x="13" y="117">M</tspan>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="favicon">
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="150" height="150"></rect>
+            <text id="M" fill="#FFAF00" font-family="Oxanium-Bold, Oxanium" font-size="150" font-weight="bold">
+                <tspan x="7.65" y="118">M</tspan>
             </text>
         </g>
     </g>
