@@ -1,6 +1,6 @@
-[marekwojtaszek.com](http://marekwojtaszek.com/)
+[marekwojtaszek.com](https://marekwojtaszek.com/)
 ========================
 
-![image](http://marekwojtaszek.com/preview.png)
-
 Repository for my personal page
+
+May the Source Be With You
