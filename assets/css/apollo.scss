@@ -5,6 +5,7 @@
   --secondary-color: #c90018;
   --header-color: #ffaf00;
   --background-color: #eee;
+  --fancy-font-family: "Oxanium", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 ::selection {
@@ -68,7 +69,7 @@ a {
 .header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: "Oxanium", cursive;
+  font-family: var(--fancy-font-family);
   font-weight: 700;
   line-height: 1;
   text-transform: uppercase;
@@ -117,7 +118,7 @@ a {
 
 .intro {
   font-size: 20px;
-  font-family: "Oxanium", cursive;
+  font-family: var(--fancy-font-family);
   box-shadow: 0 0 100px #dfdfdf;
 
   @media (min-width: 768px) {
@@ -127,8 +128,13 @@ a {
 
 .about {
   .about-content {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px 0;
+  }
+}
+
+.footer {
+  .footer-content {
+    padding: 0 0 20px;
   }
 }
 

@@ -28,9 +28,9 @@
   <link rel="shortcut icon" type="image/jpg" href="/favicon.png" />
   <link rel="shortcut icon" type="image/svg+xml" href="/favicon.svg" />
 
-  <link
+  <link rel="preload"
     href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Oxanium&display=swap"
-    rel="stylesheet" />
+    as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="stylesheet" href="/assets/css/apollo.css" />
 </head>
 
@@ -111,7 +111,8 @@
     </section>
 
     <footer class="footer page-content">
-      <p>© Marek Wojtaszek <span class="copy">Hand crafted using only organic pixels</span></p>
+      <p class="footer-content">No cookies. No tracking. Happy browsing!</p>
+      <p class="footer-content">© Marek Wojtaszek <span class="copy">Hand crafted using only organic pixels</span></p>
     </footer>
   </main>
 
@@ -120,14 +121,6 @@
       "%c May the Source Be With You ",
       "color: #fff;background: #333;font-size:24px;"
     );
-    (function (i, s, o, g, r, a, m) {
-      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-        (i[r].q = i[r].q || []).push(arguments)
-      }, i[r].l = 1 * new Date(); a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-41912016-1', 'auto');
-    ga('send', 'pageview');
   </script>
 </body>
 
